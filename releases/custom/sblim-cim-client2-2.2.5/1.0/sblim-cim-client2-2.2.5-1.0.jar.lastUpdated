@@ -1,0 +1,19 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jul 25 09:58:17 KST 2023
+https\://maven.repository.redhat.com/ga/.lastUpdated=1690246691007
+file\://${project.basedir}/../.../MavenRepo/.lastUpdated=1690246695889
+http\://ida.fel.cvut.cz/maven/.lastUpdated=1690246694712
+http\://ida.fel.cvut.cz/maven/.error=
+file\://${project.basedir}/../../../MavenRepo/.lastUpdated=1690246697866
+https\://maven.oracle.com/.error=
+@default-repo.spring.io-http\://repo.spring.io/plugins-release/.lastUpdated=1690246684078
+file\://${project.basedir}/../.../MavenRepo/.error=
+https\://repository.apache.org/content/repositories/releases/.lastUpdated=1690246681336
+https\://maven.oracle.com/.lastUpdated=1690246696318
+https\://repo.maven.apache.org/maven2/.lastUpdated=1690246676759
+https\://repository.apache.org/content/repositories/releases/.error=
+file\://${project.basedir}/../../../MavenRepo/.error=
+file\://D\:\\SVN\\APPLEMANGO_MAIN\\Source\\src_Common/../../../MavenRepo/.lastUpdated=1690246696604
+https\://repo.maven.apache.org/maven2/.error=
+http\://repo.spring.io/plugins-release/.error=Could not transfer artifact custom\:sblim-cim-client2-2.2.5\:jar\:1.0 from/to repo.spring.io (http\://repo.spring.io/plugins-release/)\: Failed to transfer http\://repo.spring.io/plugins-release/custom/sblim-cim-client2-2.2.5/1.0/sblim-cim-client2-2.2.5-1.0.jar. Error code 405, Not Allowed
+https\://maven.repository.redhat.com/ga/.error=
